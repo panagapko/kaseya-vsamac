@@ -15,6 +15,7 @@ Note: You can set the URL to your VSA server in the top of the script. If you do
 curl -L -o vsamac.sh https://raw.githubusercontent.com/panagapko/kaseya-vsamac/main/vsamac.sh
 ```
 2. **Optional**: Edit the vsamac.sh script and add your VSA server URL at the top where indicated
+![Line 9](images/vsamac-var.png)
 3. Make the script executable
 ```
 chmod +x vsamac.sh
